@@ -7,6 +7,6 @@ Cette implémentation ce situe dans le cadre d'un cours sur les DSL ("domain-spe
 L'utilisation de ce rendu ce fait en exécutant le fichier xmi du folder org.sample.k3project\src\fsm\aspects. (note: le jdk 12 est nécéssaire)
 
 Le cas d'utilisation suit cette ordre :
-  on -> lancement de la machine à état
-  sTos -> passage de l'état s1 vers s2
-  off -> passage à l'état final depuis s2
+on -> lancement de la machine à état
+sTos -> passage de l'état s1 vers s2
+off -> passage à l'état final depuis s2
